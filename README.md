@@ -5,5 +5,5 @@ Primeiros Passos Python
 - Captura de dados
 - Análise Exploratória
 - Tratamento dos dados
-- Exporatção Dataset
+- Exportação Dataset
 - Criação Dashboard vis DataViz PowerBI
