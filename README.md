@@ -1,4 +1,4 @@
-# Python---Dados-Seguran-a-RJ
+# Python-Dados-Segurança-RJ
 Primeiros Passos Python com os dados publicos de segurança do Estado do Rio de Janeiro.
 
 Primeiros Passos Python
